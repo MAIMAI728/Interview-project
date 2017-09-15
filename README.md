@@ -4,10 +4,15 @@ Ali's final project of JAVA
 ## Demo
 
 Depending on input, the output is displayed as the result like the image below.
+
+★★★★★Register&Login images★★★★★
 ![result](https://github.com/MAIMAI728/Interview-project/blob/master/sample01.gif)
 
+★★★★★Interview start images★★★★★
 ![result](https://github.com/MAIMAI728/Interview-project/blob/master/sample02.gif)
 
+★★★★★Got result images★★★★★
 ![result](https://github.com/MAIMAI728/Interview-project/blob/master/sample03.gif)
 
+★★★★★Show history images★★★★★
 ![result](https://github.com/MAIMAI728/Interview-project/blob/master/sample04.gif)
